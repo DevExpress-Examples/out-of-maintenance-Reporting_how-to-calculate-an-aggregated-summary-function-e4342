@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication12/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication12/Form1.vb))
+* [XtraReport1.cs](./CS/WindowsFormsApplication12/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/WindowsFormsApplication12/XtraReport1.vb))
+<!-- default file list end -->
 # How to calculate an aggregated summary function
 
 
